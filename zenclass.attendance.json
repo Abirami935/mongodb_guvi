@@ -1,0 +1,25 @@
+[{
+  "0": {
+    "user_name": "abirami",
+    "attendance_percent": 90
+  },
+  "1": {
+    "user_name": "rohit",
+    "attendance_percent": 95
+  },
+  "2": {
+    "user_name": "Gill",
+    "attendance_percent": 80
+  },
+  "3": {
+    "user_name": "virat",
+    "attendance_percent": 85
+  },
+  "4": {
+    "user_name": "dhoni",
+    "attendance_percent": 98
+  },
+  "_id": {
+    "$oid": "674999ea05f37562a25bbe26"
+  }
+}]

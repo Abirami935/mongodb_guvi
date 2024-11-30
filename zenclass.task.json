@@ -1,0 +1,53 @@
+[{
+  "0": {
+    "user_name": "fabian",
+    "date": {
+      "$date": "2020-10-16T00:00:00.000Z"
+    },
+    "attendance": "absent",
+    "task_submission": "failed"
+  },
+  "1": {
+    "user_name": "raja",
+    "date": {
+      "$date": "2020-10-20T00:00:00.000Z"
+    },
+    "attendance": "absent",
+    "task_submission": "failed"
+  },
+  "2": {
+    "user_name": "fernando",
+    "date": {
+      "$date": "2020-10-29T00:00:00.000Z"
+    },
+    "attendance": "present",
+    "task_submission": "passes"
+  },
+  "3": {
+    "user_name": "virat",
+    "date": {
+      "$date": "2020-11-01T00:00:00.000Z"
+    },
+    "attendance": "absent",
+    "task_submission": "passed"
+  },
+  "4": {
+    "user_name": "rohit",
+    "date": {
+      "$date": "2020-11-16T00:00:00.000Z"
+    },
+    "attendance": "present",
+    "task_submission": "failed"
+  },
+  "5": {
+    "user_name": "dhoni",
+    "date": {
+      "$date": "2020-11-17T00:00:00.000Z"
+    },
+    "attendance": "present",
+    "task_submission": "passed"
+  },
+  "_id": {
+    "$oid": "674996bd05f37562a25bbe23"
+  }
+}]

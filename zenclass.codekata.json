@@ -1,0 +1,33 @@
+[{
+  "0": {
+    "user_name": "abi",
+    "problems_solved": 88
+  },
+  "1": {
+    "user_name": "raja",
+    "problems_solved": 18
+  },
+  "2": {
+    "user_name": "abirami",
+    "problems_solved": 48
+  },
+  "3": {
+    "user_name": "rohit",
+    "problems_solved": 58
+  },
+  "4": {
+    "user_name": "virat",
+    "problems_solved": 45
+  },
+  "5": {
+    "user_name": "Sruthi",
+    "problems_solved": 91
+  },
+  "6": {
+    "user_name": "dhoni",
+    "problems_solved": 11
+  },
+  "_id": {
+    "$oid": "6749982105f37562a25bbe24"
+  }
+}]
